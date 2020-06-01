@@ -111,6 +111,7 @@ type
     liveEvent = "live_event"
     broadcast = "broadcast"
     periscope = "periscope_broadcast"
+    storeLink = "direct_store_link_app"
 
   Card* = object
     kind*: CardKind
